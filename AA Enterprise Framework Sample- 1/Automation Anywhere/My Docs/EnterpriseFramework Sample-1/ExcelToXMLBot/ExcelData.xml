@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <TransactionItemsPath>C:\Users\U43360\Documents\Automation Anywhere Files\Automation Anywhere\Data\EnterpriseFramework Sample-1\ListOfTransactionItems.csv</TransactionItemsPath>
+  <MaxRetryCount>3</MaxRetryCount>
+</Data>
